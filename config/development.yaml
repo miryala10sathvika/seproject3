@@ -1,0 +1,4 @@
+app:
+  debug: true
+database:
+  url: "sqlite:///./prototype.db"
